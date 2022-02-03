@@ -2,8 +2,11 @@ hi I am a trader
 I have 2.5 years of experience in trading
 I am good at wha I do
 
+<<<<<<< HEAD
 I love to cook when i ever i am streesed
 I can cool all vegies meats and seafood
 
 the food i love to eat is sea food
 which includes pwarns, crab, lobster and fish fry
+=======
+>>>>>>> parent of e0f7cec (new changes)
