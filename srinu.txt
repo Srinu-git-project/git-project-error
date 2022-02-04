@@ -1,9 +1,5 @@
 hi my name is srinu
 i am a devops engineer
-<<<<<<< HEAD
+
 i am a fresher but looking job on 3+ experience job.. hope this will work out
 i have even started go lang to strengthen my profile. 
-=======
-i am a fresher but looking job on 3+ experience.. hope this work out
-update the code to use git fetch and git pull
->>>>>>> errorgit/master
