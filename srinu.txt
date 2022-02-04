@@ -1,3 +1,4 @@
 hi my name is srinu
 i am a devops engineer
 i am a fresher but looking job on 3+ experience.. hope this work out
+update the code to use git fetch and git pull
