@@ -3,3 +3,5 @@ i am a devops engineer
 
 i am a fresher but looking job on 3+ experience job.. hope this will work out
 i have even started go lang to strengthen my profile. 
+
+git pull = git fetch +git merge
